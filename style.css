@@ -1,3 +1,5 @@
-body{
-    background-color: blue;
+.content{
+    background-color: red;
+    padding: 10px;
+    height: 200px;
 }
